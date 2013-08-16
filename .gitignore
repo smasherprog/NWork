@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+/Debug
+/NWork/Debug
+/Simple_Client/Debug
+/Simple_Server/Debug
